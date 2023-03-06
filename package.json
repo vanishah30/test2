@@ -1,5 +1,5 @@
 {
-  "name": "test2",
+  "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "https-server-proxy": "^1.0.15",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -19,18 +18,5 @@
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.1.0"
-  },
-  "main": "vite.config.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vanishah30/test2.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vanishah30/test2/issues"
-  },
-  "homepage": "https://github.com/vanishah30/test2#readme",
-  "description": ""
+  }
 }
